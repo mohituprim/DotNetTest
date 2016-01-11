@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -18,7 +18,8 @@ namespace MvcApplicationTest.Controllers
         public string GetString()
         {
             return "Hello World is old now. It&rsquo;s time for wassup bro ;)";
-            ///testing git hub
+            ///testing git hub//testes push
+            //testing pull
         }
     }
 }
