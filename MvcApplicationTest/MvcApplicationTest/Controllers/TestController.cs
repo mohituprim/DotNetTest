@@ -18,6 +18,7 @@ namespace MvcApplicationTest.Controllers
         public string GetString()
         {
             return "Hello World is old now. It&rsquo;s time for wassup bro ;)";
+            ///testing git hub
         }
     }
 }
